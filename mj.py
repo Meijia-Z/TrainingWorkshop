@@ -1,1 +1,3 @@
-print("Today I learned GitHub!")
+A=1 
+B=2
+print(A+B)
